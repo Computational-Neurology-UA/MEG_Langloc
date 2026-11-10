@@ -108,7 +108,7 @@ Raw MEG data are available from the authors upon reasonable request.
 If you use these scripts or build on the analyses, please cite the paper:
 
 ```bibtex
-@article{huybrechts2026functional,
+@article{huybrechts_bruffaerts_2026_functional,
   title   = {Functional identification of language-responsive sensors in individual participants in MEG investigations},
   author  = {Huybrechts, Mathias and Bruffaerts, Rose and
              Pongos, Alvinc{\'e} Le Arnz and Shain, Cory and
