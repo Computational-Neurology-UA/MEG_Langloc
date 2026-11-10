@@ -99,7 +99,7 @@ MaxFilter and FreeSurfer are external software dependencies, not Python packages
 
 ## Data and materials
 
-The task stimuli associated with the study are available through the [Open Science Framework project](https://osf.io/vc2bw/). The [supplementary materials](https://doi.org/10.17605/OSF.IO/VC2BW) provide additional analyses.
+The task stimuli associated with the study are available through the OSF project. The [supplementary materials](https://doi.org/10.17605/OSF.IO/VC2BW) provide additional analyses.
 
 Raw MEG data are available from the authors upon reasonable request.
 
@@ -127,5 +127,5 @@ If you use these scripts or build on the analyses, please cite the paper:
 
 For questions about the study or its materials, contact:
 
-- Rose Bruffaerts — rose.bruffaerts [at] uantwerpen [dot] be
-- Evelina Fedorenko — evelina9 [at] mit [dot] edu
+- Rose Bruffaerts - rose.bruffaerts [at] uantwerpen [dot] be
+- Evelina Fedorenko - evelina9 [at] mit [dot] edu
